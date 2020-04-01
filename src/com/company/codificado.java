@@ -3,8 +3,8 @@ package com.company;
 import java.util.Scanner;
 
 /**
- *
- *
+ * @author juan daniel
+ * @version 19/03/2012
  */
 public class codificado {
 
