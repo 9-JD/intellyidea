@@ -2,6 +2,10 @@ package com.company;
 
 import java.util.Scanner;
 
+/**
+ *
+ * 
+ */
 public class codificado {
 
     public static void main(String[] args) {
